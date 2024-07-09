@@ -1,0 +1,15 @@
+//inclusione partials
+@use './partials/variables' as*;
+
+// generali
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
